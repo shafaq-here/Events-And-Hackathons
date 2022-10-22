@@ -527,6 +527,8 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
 	     Student Application form open  
 ***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
+### 3- Advent of Code [See official website](https://adventofcode.com/)
+The first puzzles will unlock on December 1st at midnight EST (UTC-5). See you then!
 </details>
 
 <details>
